@@ -19,7 +19,7 @@ jobs:
           STUDIO_TOKEN: ${{ secrets.STUDIO_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # https://studio.iterative.ai/api/live is the prod default
-          STUDIO_ENDPOINT: ${{ secrets.STUDIO_ENDPOINT }}
+          # STUDIO_ENDPOINT: ${{ secrets.STUDIO_ENDPOINT }}
           DVCLIVE_LOGLEVEL: DEBUG
         run: dvc repro
 
