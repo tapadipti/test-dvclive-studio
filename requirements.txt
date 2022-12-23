@@ -2,4 +2,5 @@ dvc==2.37.0
 # dvclive==1.2.0
 # git+git://github.com/iterative/dvclive.git@38b3b1af6e9b905a112cdcb05add3df1ed61443a#egg=dvclive
 # -e git://github.com/iterative/dvclive.git#egg=dvclive
-dvclive @ git+https://github.com/iterative/dvclive.git@38b3b1af6e9b905a112cdcb05add3df1ed61443a
+# dvclive @ git+https://github.com/iterative/dvclive.git@38b3b1af6e9b905a112cdcb05add3df1ed61443a
+dvclive==1.2.2
