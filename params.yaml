@@ -1,2 +1,2 @@
-epochs: 5
-trigger: 1
+epochs: 15
+trigger: 2
